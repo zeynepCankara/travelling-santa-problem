@@ -1,6 +1,6 @@
-# Travelling Salesperson Problem
+# Travelling Santa Problems :santa:
 
-Final project of the IE400 course. Modelling and solving various Integer Programming problems.
+Final project of the IE400 course. Modelling and solving various Integer Programming problems from operations research.
 
 ## Contents
 
